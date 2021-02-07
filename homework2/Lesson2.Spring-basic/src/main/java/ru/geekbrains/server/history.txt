@@ -1,0 +1,17 @@
+Sun Feb 07 19:58:09 MSK 2021: Client < null > is left
+Sun Feb 07 20:02:28 MSK 2021: Client < null > is left
+Sun Feb 07 20:05:16 MSK 2021: Client < null > is left
+Sun Feb 07 20:06:22 MSK 2021: User <user1> is come in chat
+Sun Feb 07 20:06:41 MSK 2021: Incoming  message from Client< user1 >: hello world
+Sun Feb 07 20:07:26 MSK 2021: User <user2> is come in chat
+Sun Feb 07 20:08:07 MSK 2021: User <user3> is come in chat
+Sun Feb 07 20:08:27 MSK 2021: Incoming  message from Client< user2 >: hi am U3
+Sun Feb 07 20:08:52 MSK 2021: Incoming  message from Client< user3 >: no Im user2
+Sun Feb 07 20:10:01 MSK 2021: Incoming  message from Client< user3 >: user1: g
+Sun Feb 07 20:11:48 MSK 2021: Incoming  message from Client< user2 >: WF
+Sun Feb 07 20:12:04 MSK 2021: Client < user1 > is left
+Sun Feb 07 20:44:58 MSK 2021: Client < null > is left
+Sun Feb 07 20:45:18 MSK 2021: Client < null > is left
+Sun Feb 07 21:51:09 MSK 2021: Client < null > is left
+Sun Feb 07 21:55:06 MSK 2021: Client < null > is left
+Sun Feb 07 22:12:35 MSK 2021: Client < null > is left
